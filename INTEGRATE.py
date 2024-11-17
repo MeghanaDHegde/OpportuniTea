@@ -120,7 +120,7 @@ job_skill_data = pd.read_csv("expanded_jobs_vs_skills.csv")
 # Function to load the dataset (replace with your dataset path)
 def load_job_postings():
     # Load the dataset from a CSV file
-    data = r"C:\Users\Meghana D Hegde\Downloads\jobs_data_compressed.csv.gz"
+    data = "jobs_data_compressed.csv.gz"
     job_postings_df = pd.read_csv(data)
 
     # Clean column names to remove any leading/trailing spaces
