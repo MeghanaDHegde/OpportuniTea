@@ -1,0 +1,10 @@
+streamlit
+pandas
+joblib
+numpy
+scikit-learn
+PyMuPDF
+python-docx
+google-generativeai
+requests
+
